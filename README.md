@@ -1,4 +1,5 @@
-# Prueba_Git
-Hola
+# Respositorio con las bases del proyecto para el curso de Git
 
-Este canbio viende de mi repositorio local
+Repositorio publico para curso de git con todas las cosas que necesitas.
+
+Curso
